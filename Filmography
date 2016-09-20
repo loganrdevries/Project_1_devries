@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <div id="page_heading">
+    <h1> A list of Arnold Schwarzenggers film history</h1>
+    <nav>
+      <a href="HomePage.html">HomePage</a>
+      <a href="index.html">Facts</a>
+      <a href="Filmography.html">Filmography</a>
+    </nav>
+      <h3> Hercules in New York-1969</h3>
+      <p> In his first film, Arnold Schwarzengger portrays the greek legend, Hercules, when he arrives in new York and starts his own bodybuilding business.  </p> <img src= https://images-na.ssl-images-amazon.com/images/I/5144JMAK8RL.jpg>
+      <h3> Stay Hungry- 1976</h3>
+        <p>In "Stay Hungry", Schwarzenegger plays Joe santo, whose gym stands in the way of a syndicate wanting buy out and rebuild a district. </p><img src=https://upload.wikimedia.org/wikipedia/en/2/28/Stay_Hungry_movie_poster.jpg>
+        <h3> Pumping Iron-1977</h3>
+        <p> Arnold then went on to star in "Pumping Iron", a small, but hugely succesful, independant documentary that focused on the professional bodybuilding business.</p> <img src=https://secure.netflix.com/us/boxshots/ghd/60031683.jpg>
+        <h3> Cactus Jack-1979</h3>
+        <p> The outlaw Cactus Jack is hired to capture Charming Jones and steal her father's legacy. Lucky for Charming, she's being escorted by The "Handsome Stranger", Played by none other than Arnold Schwarzenegger.</p> <img src=http://www.schwarzenegger.com/images/made/assets/uploads/images/index/cactus_jack_1979_1_214_317_c1.jpg>
+        <h3> Conan The Barbarian-1982</h3>
+          <p> When a young Barbarian Slave(Schwarzenegger) grows up and becomes a fiercesome warrior, he goes on quest to kill the warlord who murdered his tribe.</p> <img src=http://static.rogerebert.com/uploads/movie/movie_poster/conan-the-barbarian-1982/large_xcOdfPQqIKl6B7neTtDWDL5uFHK.jpg>
+          <h3> Conan The Destroyer-1984</h3>
+             <p> In this sequel to the 1982 classic, Conan enlists the help of a group of adventurers to go on a quest to save a princess</p> <img src=http://ia.media-imdb.com/images/M/MV5BMTM2NTEwODA3M15BMl5BanBnXkFtZTcwNTk2NjEzNA@@._V1_UY1200_CR85,0,630,1200_AL_.jpg>
+          <h3> The Terminator-1984</h3>
+            <p>In what is arguably his most famous role, Arnold Schwarzenegger plays an unstopple cyborg from the future who is sent to kill Sarah Connor and Kyle Reese is sent back to stop him.</p> <img src=http://www.therobotspajamas.com/wp-content/uploads/2015/07/the-terminator-movie-poster.jpg>
+          <h3> Red Sonja-1985</h3>
+            <p> A woman named red Sonja seeks revenge on the tyrant queen who is responsible for her family's death. She must also see that a powerful orb in the queen's possesion is destroyed. </p> <img src=https://www.movieposter.com/posters/archive/main/67/MPW-33835>
+            <h3> Commando-1985</h3>
+              <p>A group of South American criminals are killing off retired members of an elite Black Ops unit one-by-one. The groups eventually Kidnaps the daughter of John Matrix(schwarzengger), the leader of the former Black ops unit,in an attempt to blackmail him into getting an ex-dictator back into power.</p> <img src=https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Commandoposter.jpg/220px-Commandoposter.jpg>
+            <h3> Raw Deal-1986</h3>
+              <p> After brutalizing a suspect, Mark Kaminsky (Schwarzennegger) is kicked out of the FBI and ends up as the Sheriff of a small town in North Carolina. When a mobster kills an FBI chief's son, Mark accepts the job of taking him down with hopes of getting reinstated into the FBI.</p> <img src=https://upload.wikimedia.org/wikipedia/en/4/45/Raw_deal.jpg>
+              <h3> Predator-1987</h3>
+                <p>In the first entry of the famous Predator film series, Arnold Schwarzenegger Leads a special army commando team as Alan "Dutch" Schaeffer. However, as they find signs off a massacred military team that came before them, the team quickly realizes that things are not as they seem. The team begins to be picked off one at a time by a mysterious creature with advanced technology-The Predator. They will have to reach extraction before it is too late.</p> <img src=http://static.rogerebert.com/uploads/movie/movie_poster/predator-1987/large_gUpto7r2XwoM5eW7MUvd8hl1etB.jpg>
+                <h3> The Running man-1987</h3>
+                  <p> In the year 2017, criminals have a choice- they can serve their sentences in prison or participate in "The Running Man", a brutal government owned gameshow where criminals must run for their lives and freedom as they are relentlessly pursued by the "stalkers". When a wrongly convicted man(schwarzengger) is put on the show he must run if he want to live.</p> <img src=http://ia.media-imdb.com/images/M/MV5BNzM4OTcyMjEyNl5BMl5BanBnXkFtZTcwMzEwNDI4OA@@._V1_UX182_CR0,0,182,268_AL_.jpg>
+                  <h3> Red Heat-1988</h3>
+                  <p> A Russian police officer(Schwarzengger) must capture a drug dealer who has escaped to America. After arriving in the U.S, the Russian officer is temporarily partnered with a man from the Chicago Police department. The two officers will have to learn to work together if they wish to find the drug dealer.</p> <img src=http://ia.media-imdb.com/images/M/MV5BMTIwMDg4OTY5MV5BMl5BanBnXkFtZTcwNTk0MTcyMQ@@._V1_UY268_CR0,0,182,268_AL_.jpg>
+                  <h3> Twins-1988</h3>
+                  <p> Arnold Schwarzengger plays Julius Benedict, a man who was part of an experiment that would create a perfect child. Julius is raised by philosophers and grows to have the physicality of an athlete. Julius then discovers he has a twin brother, Vincent Benedict. Vincent was not planned and was left in an orphange. Vincent has grown up into a short, squat lowlife. Julius must now set out to find his twin brother before he is killed by loan sharks. </p> <img src=http://www.impawards.com/1988/posters/twins_ver3.jpg>
+                  <h3>  Total Recall-1990</h3>
+                    <p> Douglas Quaid is a construction worker who has been plagued with nightmares about Mars to the point where he has become obsessive about them. Douglas then decides to visit "Rekall INC", a company that sells false memory implants of ideal holidays. Douglas then makes the fateful decision to have a false memory of a holiday on Mars implanted. Douglas then finds that he has lost his memory and is being chased by a groups of assasins, one of which is his wife Lori, telling him that his entire life and identity is one big lie. He will have to go to Mars if he wants answers about whats going on and who he is, but he will only find himself with even more questions.</p> <img src= https://upload.wikimedia.org/wikipedia/en/f/f9/Total_recall.jpg>
+                    <h3> Kindergarten Cop-1990</h3>
+                    <p> Two L.A detectives, John Kimble(Schwarzengger) and his partner, Phoebe O'hara, are tasked with finding Rachel, the ex-wife of Cullen Crisp, a crazed drug dealer who John recently arrested for murder. Rachel's testomony could be vital in putting Crisp away for good, so John and Phoebe head to Astoria, Oregon, where Rachel and her son are supposedly living. They have reason to believe that Rachel's son is a kindergarten student at Astoria Elementary School, so Phoebe is assigned to go undercover as a teacher, due to her experience as a school teacher. When Phoebe become sick, however, it's up to the inexpierenced john to play the part of a kindergarten teacher.</p> <img src=http://www.impawards.com/1990/posters/kindergarten_cop.jpg>
+                    <h3> Terminator 2: Judgement Day-1991 </h3>
+                    <p> Arnold Schwarzenegger reprises his role as "The Terminator". A superior Terminator is sent back in time to kill the future leader of the human resistance, John Connor, Who is still a young boy at the time. The Human resitance then send back the original Terminator(Schwarzengger) to protect John Connor.</p> <img src= https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg>
+                    <h3> Last Action Hero-1993 </h3>
+                    <p> Arnold Schwarzenegger plays himself, who plays Jack Slater, The Action star of Danny Madigan's favorite film series. When Danny Madigan gets a magic ticket that transports him into Jack Slater's movies, Danny will have to help Jack stop the villians from entering the real world and killing Arnold Schwarzengger in hopes of getting rid of Jack Slater. </p> <img src=https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Last_action_hero_ver2.jpg/220px-Last_action_hero_ver2.jpg>
+                  <h3> True Lies-1994 </h3>
+                  <p> Harry Tasker is a U.S agent who elimanates terrorist threats to our country, However, His wife, helen, whom he has a daughter with, doesnt know about his occuppation and instead believes that he works for a computer company. As Helen meets a sleezy carsalesmen attempting to seduce her into an affair, a terrorist group is threatening to launch a nuclear strike on the U.S. Harry will have to juggle Helen and the terrorists if he wants to save both his marriage and the country.</p> <img src=http://www.impawards.com/1994/posters/true_lies.jpg>
+                  <h3> Junior-1994 </h3>
+                  <p> When the funding for a drug that will lower the chances of a woman having a miscarriage is pulled, Alex Hesse(Schwarzenegger) and his colleague, larry Arbogast, decide to continue the experiment anyways. Through artificial means, Alex is then impregnanted.</p> <img src=https://www.movieposter.com/posters/archive/main/7/A70-3948>
+                  <p> For a more extensive view on Arnold Schwarzenegger's work you can visit <a href="http://www.schwarzenegger.com/filmography"> his website.</p>
+                    <body>

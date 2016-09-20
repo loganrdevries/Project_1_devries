@@ -1,0 +1,27 @@
+@import 'https://fonts.googleapis.com/css?family=Rubik+Mono+One';
+p {
+  font-family: 'Rubik Mono One', sans-serif;
+  color: orange;
+}
+li {
+  font-family: 'Rubik Mono One', sans-serif;
+  color: black;
+}
+h1{
+  font-family: 'Rubik Mono One', sans-serif;
+  text-align: center;
+  color: crimson;
+}
+h3{
+  font-family: 'Rubik Mono One', sans-serif;
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+nav{
+  text-align: center;
+}
+img{
+  text-align: center;
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+<h1> Arnold Schwarzenegger Fan Site </h1>
+ <h3> The quintessential website for any Arny fan.</h3>
+ <nav>
+   <a href="HomePage.html">HomePage</a>
+   <a href="Filmography.html">Filmography</a>
+   <a href="Quotes">Quotes</a>
+ </nav>
+ <p> This website is in dedication to the legendary Arnold Schwarzenegger. Starting out as a professional bodybuilder, Arnold Schwarzenegger has since become one of the most famous stars in the film industry. Schwarzenegger has supplied hollywood with a treasure trove of movies, such as Pumping Iron, Predator, Terminator. This website is for any fan who wants to know more about this accomplished actor. </p>
+<h3> Biography</h3>
+   <p> Arnold Schwarzenegger Has been starring in movies since 1969, his first lead role was Hercules, in "Hercules in New York". Schwazenegger has since made over 30 movies. Schwarzenegger did have an easy upbringing. His father,<a href="https://en.wikipedia.org/wiki/Gustav_Schwarzenegger">Gustav Schwarzengger</a>, favored Arnold's older brother and was later discovered to be a member of the Nazi Party.</p>
+</body>

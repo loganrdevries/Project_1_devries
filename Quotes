@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+ <h1> A list of my favorite Arnold Schwarzengger movie quotes </h1>
+ <nav>
+   <a href="HomePage.html">HomePage</a>
+   <a href="Filmography.html">Filmography</a>
+   <a href="Quotes">Quotes</a>
+ </nav>
+ <ul>
+ <li>"I'll be Back."- 'The Terminator' </li>
+ <li>"Hasta La vista, baby."- Terminator 2: 'Judegement Day' </li>
+ <li>"I need your clothes, your boots and your motorcycle."-'Terminator 2: Judgement Day''</li>
+ <li>"You are one ugly motherf***er"- 'Predator'</li>
+ <li>"Get to the Chopper!"- 'Predator'</li>
+ <li>"If it bleeds, we can kill it."-'Predator'</li>
+ <li>"COME ON, DO IT!!! KILL MEEE! I'M RIGHT HERE!!!"-'Predator'</li>
+ <li> "Everybody Chill!"- 'Batman and Robin'</li>
+ <li>"Get your ass to mars"-'Total Recall' </li>
+ <li>"Consider this divorce"-'Total Recall'</li>
+ <li> "No, it's not a tumor. It's not a tumor!" - 'Kindergarten Cop'</li>
+ <li>"The Best exercise is pumping and humping"- 'Pumping Iron' </li>
+ <ul>
+ <p> For a more extensive look on his quotes<a href="http://www.chud.com/community/t/80778/arnolds-top-100-movie-quotes-the-list"> click here.</p>
+<body>
